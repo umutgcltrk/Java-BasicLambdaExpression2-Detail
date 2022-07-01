@@ -24,6 +24,10 @@ public class LambdaTest2 {
          //compiler-error
 //         height++;
 //         weight++;
+          //or
+//         height = 186;
+//         weight = 98;
+         
 
         };
         mainLambda.testing();
